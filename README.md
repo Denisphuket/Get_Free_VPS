@@ -95,3 +95,10 @@ And if you're sharing this with your friends, don't forget to give me credit lol
 2. Server will only work 50 hours/week, so get 2-3 google accounts if you want to always use it.
 3. If you restarted the server, you need to do all the steps again.
 4. Contact https://t.me/patheticprogrammers for help.
+
+
+ERROR
+<img src="https://prnt.sc/N6fRj_d0PHaQ">
+ Paste the code
+ `sudo apt install dbus-x11`
+
