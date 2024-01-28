@@ -98,7 +98,9 @@ And if you're sharing this with your friends, don't forget to give me credit lol
 
 
 ERROR
-<img src="https://prnt.sc/N6fRj_d0PHaQ">
+Unable to contact settings server
+Failed to execute child process "dbus-launch" (No such file or directory)
+<img src="https://img001.prntscr.com/file/img001/AKkXTvMrSDa1UpA-xjV7Sw.png">
  Paste the code
  `sudo apt install dbus-x11`
 
